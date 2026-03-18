@@ -1,14 +1,11 @@
 [theme]
-# 艺术金：主要交互组件的颜色
+
 primaryColor="#D4AF37"
 
-# 深空灰：网页背景色
 backgroundColor="#1A1A1B"
 
-# 煤层黑：侧边栏和卡片的颜色
 secondaryBackgroundColor="#2D2D30"
 
-# 极简白：文字颜色
 textColor="#E0E0E0"
 
 font="sans serif"
