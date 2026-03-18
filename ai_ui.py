@@ -74,7 +74,7 @@ MY_BASE_URL = "https://api.deepseek.com"
 # 固定领域：艺术设计
 TARGET_DOMAIN = "艺术设计"
 # AI 名字
-AI_NAME = "北京化工大学艺术助手"
+AI_NAME = u"北京化工大学艺术助手"
 
 # ================= 2. 页面样式设置 =================
 st.set_page_config(page_title=AI_NAME, page_icon="🎨")
