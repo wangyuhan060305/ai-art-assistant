@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+import streamlit as st
+from openai import OpenAI
+# ... 剩下的代码 ...
 # 注入自定义 CSS 动效
 import streamlit as st
 from openai import OpenAI
