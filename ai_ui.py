@@ -81,7 +81,7 @@ st.caption(f"欢迎！我是您的专属助手，我只专注于【{TARGET_DOMAI
 with st.sidebar:
     st.header("关于助手")
     st.info(f"📍 专注领域：{TARGET_DOMAIN}")
-    st.write("本助手已锁定专业模式，无法回答非艺术设计相关的问题。")
+    st.write("欢迎使用北化艺术设计学院专属 AI 助手。")
     if st.button("清空对话记录"):
         st.session_state.messages = []
         st.rerun()
